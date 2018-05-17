@@ -3,3 +3,4 @@ this is my style document
 colour = COO
 
 add news text
+
