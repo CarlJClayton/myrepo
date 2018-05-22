@@ -10,3 +10,4 @@ s
 style.txt added
 
 index added
+news-3.html
